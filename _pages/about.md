@@ -9,7 +9,9 @@ redirect_from:
 ---
 
 ## About Me
-I am Alisina Bayati, a Ph.D. student in Mechanical Science and Engineering at the University of Illinois at Urbana-Champaign, with a keen interest in dynamical systems modeling, control, and optimization. My journey spans from Sharif University of Technology in Mechanical Engineering to furthering my education with a Master of Science in Mathematics, embodying my passion for applying mathematical principles to engineering challenges.
+I am Alisina Bayati, a Ph.D. student in Mechanical Science and Engineering at the University of Illinois at Urbana-Champaign, with a keen interest in dynamical systems modeling, control, and optimization. My journey spans from Sharif University of Technology in Mechanical Engineering to furthering my education with a Master of Science in Mathematics, embodying my passion for applying mathematical principles to engineering challenges. Please find my CV [here].({% link cv.md %})
+
+
 
 ## Education
 - **Ph.D. in Mechanical Science and Engineering**, University of Illinois at Urbana-Champaign (2020–2026, Expected)
