@@ -8,9 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-About Me 
-======
-I am a Ph.D. student in the department of Mechanical Science and Engineering at the University of Illinois at Urbana Champaign, where I am working under the supervision of [Prof. Srinivasa Salapaka](http://salapaka.web.engr.illinois.edu/). Before that, I was an undergraduate student in the Mechanical Engineering department at the Sharif University of Technology, during which I spent a year working with [Prof. Hamed Moradi](http://mech.sharif.ir/~hamedmoradi/) as a part of my undergraduate research project.
+## About Me
+I am Alisina Bayati, a Ph.D. student in Mechanical Science and Engineering at the University of Illinois at Urbana-Champaign, with a keen interest in dynamical systems modeling, control, and optimization. My journey spans from Sharif University of Technology in Mechanical Engineering to furthering my education with a Master of Science in Mathematics, embodying my passion for applying mathematical principles to engineering challenges.
+
+## Education
+- **Ph.D. in Mechanical Science and Engineering**, University of Illinois at Urbana-Champaign (2020–2026, Expected)
+  - Supervisor: Prof. Srinivasa Salapaka
+- **Master of Science in Mathematics**, University of Illinois at Urbana-Champaign (2021–2025, Expected)
+  - GPA: 3.88/4.00
+- **Bachelor of Science in Mechanical Engineering**, Sharif University of Technology (2015–2019)
+  - GPA: 18.10/20.0 (Converted: 3.89/4.00)
+  - Supervisor: Prof. Hamed Moradi
+
+## Coursework
+Focused on **Computer Science** (Machine Learning, Dynamic Programming and Reinforcement Learning, Computer Vision), **Controls** (Control Systems Theory and Design, Analysis of Nonlinear Systems, Optimum Control Systems), and **Mathematics** (Mathematical Methods, Random Processes, Real Analysis).
+
+## Research Interests
+My research interests include Dynamical Systems Modeling and Control, Sequential Decision Making and Reinforcement Learning, and Optimization techniques.
+
+## Publications
+- "Towards Sustainability in Drying by Multi-frequency Multimode Modulated Ultrasound Technology and Multi-objective Mixed-integer Dynamic Optimization." (To be Submitted)
+- "Sparse Linear Regression with Constraints: A Flexible Entropy-based Framework." (Accepted in European Control Conference (ECC) 2024)
+
+## Research Projects
+- **Digital Twin for Connector Design**, C-NICE, UIUC (Feb 2024–Present)
+- **Self-Organizing Wireless Networks**, C-NICE, UIUC (Sep 2021–Jan 2024)
+- **Mixed-integer Multi-stage Optimization of Ultrasonic/Convective Food Drying Processes**, US Department of Energy (DOE), UIUC (Oct 2020–Present)
+
+## Courses Taught
+- Dynamics of Mechanical Systems Course (ME340) as a Graduate Teaching Assistant at UIUC.
+
+## Skills
+- **Programming Languages**: Python, Matlab, LaTeX, C
+- **Frameworks**: NumPy, PyTorch, SciPy, Simulink, LabView, OpenCV
+- **Languages**: Persian (Native), English (Fluent), Arabic (Elementary)
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
