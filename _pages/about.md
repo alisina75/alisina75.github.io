@@ -14,6 +14,9 @@ I am Alisina Bayati, currently pursuing a Ph.D. in Mechanical Science and Engine
 In recent explorations, I've developed a keen interest in the intersection of machine learning and dynamical systems. This includes efforts to understand and incorporate the intrinsic properties of dynamical systems—such as governing equations, symmetries, and invariances—into machine learning models. My goal is to enhance the predictive capabilities of these models by integrating fundamental physical principles into the learning process.
 
 
+## News
+- **[02/29/2024]**: Our work on maximum entropy sparse linear regression is accepted in European Control Conference 2024, Sweden. [click here](https://arxiv.org/abs/2311.08342) to check out our work.
+
 
 
 
