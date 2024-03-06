@@ -11,13 +11,11 @@ redirect_from:
 ## About Me
 I am Alisina Bayati, currently pursuing a Ph.D. in Mechanical Science and Engineering at the University of Illinois at Urbana-Champaign. My academic and research journey, beginning at Sharif University of Technology in Mechanical Engineering and extending into a Master of Science in Mathematics, is driven by a profound passion for dynamical systems modeling, control, and optimization. These pursuits embody my dedication to leveraging mathematical principles to tackle engineering challenges. For a detailed overview of my academic and professional journey, please find my CV [here](https://alisina75.github.io/files/CV.pdf). Additionally, a brief overview of my projects is available [here](https://alisina75.github.io/files/Projects.pdf).
 
-In recent explorations, I've developed a keen interest in the intersection of machine learning and dynamical systems. This includes efforts to understand and incorporate the intrinsic properties of dynamical systems—such as governing equations, symmetries, and invariances—into machine learning models. My goal is to enhance the predictive capabilities of these models by integrating fundamental physical principles into the learning process.
+In recent explorations, I've developed a keen interest in the intersection of machine learning and dynamical systems. This includes efforts to understand and incorporate the intrinsic properties of dynamical systems—such as information about the governing equations, symmetries, and invariances—into machine learning models. My goal is to enhance the predictive capabilities of these models by integrating fundamental physical principles into the learning process.
 
 
 ## News
-- **[02/29/2024]**: Our work on maximum entropy sparse linear regression is accepted in European Control Conference 2024, Sweden. [click here](https://arxiv.org/abs/2311.08342) to check out our work.
-
-
+- **[02/29/2024]**: Our work on maximum entropy sparse linear regression is accepted in European Control Conference 2024, Sweden. [Click here](https://arxiv.org/abs/2311.08342) to check out our work.
 
 
 
