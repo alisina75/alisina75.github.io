@@ -29,7 +29,7 @@ In recent explorations, I've developed a keen interest in the intersection of ma
   - Supervisor: Prof. Hamed Moradi
 
 ## Coursework
-Focused on **Computer Science** (Machine Learning, Dynamic Programming and Reinforcement Learning, Computer Vision), **Controls** (Control Systems Theory and Design, Analysis of Nonlinear Systems, Optimum Control Systems), and **Mathematics** (Mathematical Methods, Random Processes, Real Analysis, Functional Analysis).
+Focused on **Computer Science** (Machine Learning, Dynamic Programming and Reinforcement Learning, Computer Vision), **Controls** (Control Systems Theory and Design, Analysis of Nonlinear Systems, Optimum Control Systems), and **Mathematics** (Mathematical Methods, Statistics and Probability II, Random Processes, Real Analysis, Functional Analysis).
 
 ## Research Interests
 My research interests include Dynamical Systems and Control, Scientific Machine Learning, Sequential Decision Making and Reinforcement Learning, and Optimization.
