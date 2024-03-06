@@ -17,7 +17,7 @@ permalink: /projects/
   <li>Incorporation of system symmetries and properties into the learning process</li>
 </ul> <!-- Bullet points end -->
 
-<img src="/images/Wifi.png" alt="WiFi Mesh Network Diagram" title="WiFi Mesh Network Optimization" style="width: 33%;">
+<img src="/images/Wifi.png" alt="WiFi Mesh Network Diagram" title="WiFi Mesh Network Optimization" style="width: 43%;">
 
 </div> <!-- End indentation -->
 
