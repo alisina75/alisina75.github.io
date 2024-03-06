@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 ## About Me
-I am Alisina Bayati, a Ph.D. student in Mechanical Science and Engineering at the University of Illinois at Urbana-Champaign, with a keen interest in dynamical systems modeling, control, and optimization. My journey spans from Sharif University of Technology in Mechanical Engineering to furthering my education with a Master of Science in Mathematics, embodying my passion for applying mathematical principles to engineering challenges. Please find my CV [here](https://alisina75.github.io/files/CV.pdf).
+I am Alisina Bayati, a passionate Ph.D. student in Mechanical Science and Engineering at the University of Illinois at Urbana-Champaign, deeply engaged in the exploration of dynamical systems modeling, control, and optimization. My academic journey, beginning with a Bachelor’s in Mechanical Engineering at Sharif University of Technology and advancing through a Master of Science in Mathematics, reflects my dedication to leveraging mathematical principles for engineering innovations. For a detailed view of my work and projects, please find my CV [here](https://alisina75.github.io/files/CV.pdf) and a brief overview of my projects [here](https://alisina75.github.io/projects/).
+
 
 
 
@@ -24,19 +25,23 @@ I am Alisina Bayati, a Ph.D. student in Mechanical Science and Engineering at th
   - Supervisor: Prof. Hamed Moradi
 
 ## Coursework
-Focused on **Computer Science** (Machine Learning, Dynamic Programming and Reinforcement Learning, Computer Vision), **Controls** (Control Systems Theory and Design, Analysis of Nonlinear Systems, Optimum Control Systems), and **Mathematics** (Mathematical Methods, Random Processes, Real Analysis).
+Focused on **Computer Science** (Machine Learning, Dynamic Programming and Reinforcement Learning, Computer Vision), **Controls** (Control Systems Theory and Design, Analysis of Nonlinear Systems, Optimum Control Systems), and **Mathematics** (Mathematical Methods, Random Processes, Real Analysis, Functional Analysis).
 
 ## Research Interests
-My research interests include Dynamical Systems Modeling and Control, Sequential Decision Making and Reinforcement Learning, and Optimization techniques.
+My research interests include Dynamical Systems and Control, Scientific Machine Learning, Sequential Decision Making and Reinforcement Learning, and Optimization.
 
 ## Publications
+- "An Entropy-Based, Data-Driven Framework for Routing Optimization in WiFi Mesh Networks" (To be Submitted to IEEE Communications Letters)
 - "Towards Sustainability in Drying by Multi-frequency Multimode Modulated Ultrasound Technology and Multi-objective Mixed-integer Dynamic Optimization." (To be Submitted)
-- "Sparse Linear Regression with Constraints: A Flexible Entropy-based Framework." (Accepted in European Control Conference (ECC) 2024)
+- "Sparse Linear Regression with Constraints: A Flexible Entropy-based Framework." (Accepted in European Control Conference (ECC) 2024) [[Link to Arxiv]](https://arxiv.org/abs/2311.08342)
+- "Towards Efficient Modularity in Industrial Drying: A Combinatorial Optimization Viewpoint" (American Control Conference (ACC) 2023) [[Link to Publication]](https://ieeexplore.ieee.org/abstract/document/10156630)
+
 
 ## Research Projects
 - **Digital Twin for Connector Design**, C-NICE, UIUC (Feb 2024–Present)
 - **Self-Organizing Wireless Networks**, C-NICE, UIUC (Sep 2021–Jan 2024)
 - **Mixed-integer Multi-stage Optimization of Ultrasonic/Convective Food Drying Processes**, US Department of Energy (DOE), UIUC (Oct 2020–Present)
+
 
 ## Courses Taught
 - Dynamics of Mechanical Systems Course (ME340) as a Graduate Teaching Assistant at UIUC.
