@@ -15,10 +15,8 @@ In recent explorations, I've developed a keen interest in the intersection of ma
 
 
 ## News
+- **[04/12/2024]**: I successfully passed my qualifying exam! My presentation covered the paper ["Deepsets"](https://arxiv.org/pdf/1703.06114) by Manzil Zaheer et al. View the slides from my talk [here](/Users/alisina/Documents/GitHub/files/Qualifying_Exam-3.pdf).
 - **[02/29/2024]**: Our work on maximum entropy sparse linear regression is accepted in European Control Conference 2024, Sweden. [Click here](https://arxiv.org/abs/2311.08342) to check out our work.
-- **[04/12/2024]**: I successfully passed my qualifying exam! My presentation covered the paper ["Deepsets"](https://arxiv.org/pdf/1703.06114) by Manzil Zaheer et al. View the slides from my talk [here](link-to-your-slides).
-
-
 
 
 ## Education
