@@ -8,7 +8,14 @@ permalink: /projects/
 
 <div style="margin-left: 100px;"> <!-- Indent content -->
 
-<p> [Statistical Reinforcement learning project](https://alisina75.github.io/files/misc_notes/CS542_project.pdf)</p>
+  <p>
+    <a href="https://alisina75.github.io/files/misc_notes/CS542_project.pdf" target="_blank">
+      Statistical Reinforcement Learning Project
+    </a>
+  </p>
+
+</div>
+
 
 <ul> <!-- Bullet points start -->
   <li>Exploration of single-band and multi-channel configurations</li>
