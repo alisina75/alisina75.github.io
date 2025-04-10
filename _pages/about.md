@@ -9,17 +9,19 @@ redirect_from:
 ---
 
 ## About Me
-I am Alisina Bayati, currently pursuing a Ph.D. in Mechanical Science and Engineering at the University of Illinois at Urbana-Champaign. My academic and research journey, beginning at Sharif University of Technology in Mechanical Engineering and extending into a Master of Science in Mathematics, is driven by a profound passion for dynamical systems modeling, control, and optimization. These pursuits embody my dedication to leveraging mathematical principles to tackle engineering challenges. For a detailed overview of my academic and professional journey, please find my CV [here](https://alisina75.github.io/files/CV.pdf). Additionally, a brief overview of my projects is available [here](https://alisina75.github.io/projects/).
 
-In recent explorations, I've developed a keen interest in the intersection of machine learning and dynamical systems. This includes efforts to understand and incorporate the intrinsic properties of dynamical systems—such as information about the governing equations, symmetries, and invariances—into machine learning models. My goal is to enhance the predictive capabilities of these models by integrating fundamental physical principles into the learning process.
+I'm Alisina Bayati, a Ph.D. student at the Coordinated Science Lab (CSL) at the University of Illinois at Urbana-Champaign. I'm also pursuing a Master of Science in Mathematics.
 
+My research interests lie at the intersection of optimization, reinforcement learning, control theory, and sequential decision-making.
+
+You can find a detailed overview of my academic and professional background in my [CV](https://alisina75.github.io/files/CV.pdf). A summary of my research and course projects is available [here](https://alisina75.github.io/projects/).
 
 ## News
 - **[04/12/2024]**: I successfully passed my qualifying exam! My presentation covered the paper ["Deepsets"](https://arxiv.org/pdf/1703.06114) by Manzil Zaheer et al. View the slides from my talk [here](https://alisina75.github.io/files/Qualifying_Exam-3.pdf).
 - **[02/29/2024]**: Our work on maximum entropy sparse linear regression is accepted in European Control Conference 2024, Sweden. [Click here](https://arxiv.org/abs/2311.08342) to check out our work.
 
 
-## Education
+<!-- ## Education
 - **Ph.D. in Mechanical Science and Engineering**, University of Illinois at Urbana-Champaign (2020–2026, Expected)
   - Supervisor: Prof. Srinivasa Salapaka
 - **Master of Science in Mathematics**, University of Illinois at Urbana-Champaign (2021–2025, Expected)
@@ -53,7 +55,7 @@ My research interests include Dynamical Systems and Control, Scientific Machine 
 ## Skills
 - **Programming Languages**: Python, Matlab, LaTeX, C
 - **Frameworks**: NumPy, PyTorch, SciPy, Simulink, LabView, OpenCV
-- **Languages**: Persian (Native), English (Fluent), Arabic (Elementary)
+- **Languages**: Persian (Native), English (Fluent), Arabic (Elementary) -->
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
