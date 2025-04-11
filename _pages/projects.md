@@ -9,7 +9,7 @@ permalink: /projects/
 
 <div style="margin-left: 2em; padding-left: 1em; border-left: 2px solid #ccc; margin-bottom: 2em;">
   <p style="margin: 0; color: #666;">
-    Project details coming soon. This section will include summaries of ongoing and past research efforts related to control theory, optimization, multi-agent systems, and learning-based decision-making.
+    Project details coming soon. 
   </p>
 </div>
 
@@ -27,7 +27,7 @@ permalink: /projects/
   <p style="margin: 0 0 0.8em 0;">
     Reproduced and analyzed the core results of  
     <em>“Regret Bounds for the Adaptive Control of Linear Quadratic Systems”</em>  
-    by Abbasi-Yadkori and Szepesvári. This work presents key theorems, lemmas, and an algorithm designed for solving Linear Quadratic (LQ) control problems with unknown model parameters—commonly referred to as adaptive control—aiming to minimize regret. The proposed algorithm estimates parameters using high-probability confidence sets and achieves a regret bound of 𝒪̃(√T).
+    by Abbasi-Yadkori and Szepesvári. This work presents key theorems, lemmas, and an algorithm designed for solving Linear Quadratic (LQ) control problems with unknown model parameters—commonly referred to as adaptive control—aiming to minimize regret. The proposed algorithm estimates parameters using high-probability confidence sets and achieves a regret bound of $\tilde{O}(\sqrt{T})$.
   </p>
 
   <p style="margin: 0 0 0.3em 0;">
