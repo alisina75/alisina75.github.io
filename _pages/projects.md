@@ -46,6 +46,27 @@ permalink: /projects/
 
 </div>
 
+<div style="margin-left: 2em; padding-left: 1em; border-left: 2px solid #ccc; margin-bottom: 2em;">
+
+  <h3 style="margin: 0 0 0.25em 0; font-weight: 600;">Computer Vision</h3>
+
+  <p style="margin: 0 0 0.5em 0; font-style: italic; color: #555;">
+    Instructor: Svetlana Lazebnik
+  </p>
+
+  <p style="margin: 0 0 0.8em 0;">
+        Developed and compared deep learning architectures (CNN, VGGNet, LeNet) for facial keypoint detection on noisy and tilted images using a Kaggle dataset. Implemented data augmentation and evaluated robustness across models using training/validation losses and visual prediction outputs.
+  </p>
+
+  <p style="margin: 0 0 0.3em 0;">
+    Report: 
+    <a href="https://alisina75.github.io/files/misc_notes/Comp_vis_report.pdf" target="_blank">
+      PDF available here
+    </a>
+  </p>
+
+</div>
+
 <!-- Miscellaneous Section -->
 <h2 style="margin-left: 2em; margin-bottom: 0.4em;">Miscellaneous</h2>
 
