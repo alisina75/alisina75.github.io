@@ -18,7 +18,7 @@ permalink: /projects/
   <p style="margin: 0 0 0.8em 0;">
     This report reproduces and analyzes the core results of the paper  
     <em>“Regret Bounds for the Adaptive Control of Linear Quadratic Systems”</em>  
-    by Abbasi-Yadkori and Szepesvári. It focuses on presenting the main theorems, lemmas, and the algorithm designed to solve linear quadratic (LQ) control problems with unknown model parameters—commonly referred to as adaptive control—and aims to minimize regret. The paper introduces a high-probability confidence set–based method for estimating the unknown parameters and proposes an algorithm that achieves a regret bound of 𝒪̃(√T).
+    by Abbasi-Yadkori and Szepesvári. It focuses on presenting the main theorems, lemmas, and the algorithm designed to solve linear quadratic (LQ) control problems with unknown model parameters—commonly referred to as adaptive control—and aims to minimize regret. The paper introduces a high-probability confidence set–based method for estimating the unknown parameters and proposes an algorithm that achieves a regret bound of $\tilde{O}(\sqrt{T})$.
   </p>
 
   <p style="margin: 0 0 0.3em 0;">
@@ -58,7 +58,7 @@ permalink: /projects/
 
   <p style="margin: 0;">
     Presentation slides:  
-    <a href="https://alisina75.github.io/files/Qualifying_Exam-3.pdf" target="_blank">
+    <a href="https://alisina75.github.io/files/misc_notes/Qualifying_Exam-3.pdf" target="_blank">
       PDF available here
     </a>
   </p>
