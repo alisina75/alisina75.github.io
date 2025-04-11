@@ -18,7 +18,7 @@ You can find a detailed overview of my academic and professional background in m
 
 ## News
 
-- **[04/03/2024]**: Two works submitted to CDC 2025!
+- **[04/03/2025]**: Two works submitted to CDC 2025!
   - **A control barrier function approach to constrained resource allocation problems in a maximum entropy principle framework**, by Alisina Bayati$^{\dagger}$, Dhananjay Tiwary$^{\dagger}$, and Srinivasa Salapaka. [arXiv:2504.01378](https://arxiv.org/abs/2504.01378)
   - **Orthogonal nonnegative matrix factorization with sparsity constraints**, by Salar Basiri, **Alisina Bayati**, and Srinivasa Salapaka. [arXiv:2210.02672](https://arxiv.org/abs/2210.02672)
 
