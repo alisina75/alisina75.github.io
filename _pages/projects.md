@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 ---
 
-<h2 style="margin-left: 2em; margin-bottom: 0.5em;">Course Projects</h2>
+<h2 style="margin-left: 2em; margin-bottom: 0.3em;">Course Projects</h2>
 
 <div style="margin-left: 2em; padding-left: 1em; border-left: 2px solid #ccc;">
 
