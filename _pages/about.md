@@ -17,8 +17,15 @@ My research interests lie at the intersection of optimization, reinforcement lea
 You can find a detailed overview of my academic and professional background in my [CV](https://alisina75.github.io/files/CV.pdf). A summary of my research and course projects is available [here](https://alisina75.github.io/projects/).
 
 ## News
-- **[04/12/2024]**: I successfully passed my qualifying exam! My presentation covered the paper ["Deepsets"](https://arxiv.org/pdf/1703.06114) by Manzil Zaheer et al. View the slides from my talk [here](https://alisina75.github.io/files/Qualifying_Exam-3.pdf).
+
+- **[04/03/2024]**: Two works submitted to CDC 2025!
+  - **A control barrier function approach to constrained resource allocation problems in a maximum entropy principle framework**, by **Alisina Bayati**$^{\dagger}$, Dhananjay Tiwary$^{\dagger}$, and Srinivasa Salapaka. [arXiv:2504.01378](https://arxiv.org/abs/2504.01378)
+  - **Orthogonal nonnegative matrix factorization with sparsity constraints**, by Salar Basiri, **Alisina Bayati**, and Srinivasa Salapaka. [arXiv:2210.02672](https://arxiv.org/abs/2210.02672)
+
+- **[04/12/2024]**: I successfully passed my qualifying exam!
+
 - **[02/29/2024]**: Our work on maximum entropy sparse linear regression is accepted in European Control Conference 2024, Sweden. [Click here](https://arxiv.org/abs/2311.08342) to check out our work.
+
 
 
 <!-- ## Education
