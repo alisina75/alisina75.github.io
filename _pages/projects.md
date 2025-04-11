@@ -4,17 +4,27 @@ title: "Projects"
 permalink: /projects/
 ---
 
-<h2>Course Projects</h2>
+<h2 style="margin-left: 2em;">Course Projects</h2>
 
-<div style="margin-left: 100px;"> <!-- Indent content -->
+<div style="margin-left: 2em;">
 
-  <p>
-    <a href="https://alisina75.github.io/files/misc_notes/CS542_project.pdf" target="_blank">
-      Statistical Reinforcement Learning Project
-    </a>
+  <h3 style="margin-bottom: 0;">Statistical Reinforcement Learning</h3>
+  <p style="margin-top: 4px; margin-bottom: 0;">
+    Instructor: Nan Jiang
+  </p>
+  <p style="margin-top: 4px;">
+    Re-derived and explained the core results of the paper:
+    <em>"Regret Bounds for the Adaptive Control of Linear Quadratic Systems"</em>  
+    by Yadkori, Szepesvári, and Poupart  
+    [<a href="https://arxiv.org/abs/1207.4093" target="_blank">paper link</a>].
+  </p>
+  <p style="margin-top: -10px;">
+    Final project report available  
+    [<a href="https://alisina75.github.io/files/misc_notes/CS542_project.pdf" target="_blank">here</a>].
   </p>
 
 </div>
+
 
 
 <ul> <!-- Bullet points start -->
