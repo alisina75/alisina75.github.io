@@ -65,6 +65,35 @@ permalink: /projects/
 
 </div>
 
+<div style="margin-left: 2em; padding-left: 1em; border-left: 2px solid #ccc;">
+
+  <h3 style="margin: 0 0 0.25em 0; font-weight: 600;">
+    Poster Presentation – Midwest Workshop on Control and Game Theory 2023
+  </h3>
+
+  <p style="margin: 0 0 0.8em 0;">
+    Presented a poster on our work published in  
+    <em>“Towards Efficient Modularity in Industrial Drying: A Combinatorial Optimization Viewpoint”</em>,  
+    which focuses on optimizing the order and operating conditions of multiple drying technologies with distinct mechanisms and constraints. The formulation addresses a combinatorial scheduling problem aimed at enhancing energy efficiency and modularity in industrial drying systems.
+  </p>
+
+  <p style="margin: 0 0 0.3em 0;">
+    Paper link:  
+    <a href="https://ieeexplore.ieee.org/abstract/document/10156630" target="_blank">
+      https://ieeexplore.ieee.org/document/10156630
+    </a>
+  </p>
+
+  <p style="margin: 0;">
+    Poster:  
+    <a href="https://alisina75.github.io/files/posters/ACC_drying_poster.pdf" target="_blank">
+      PDF available here
+    </a>
+  </p>
+
+</div>
+
+
 
 
 
