@@ -14,7 +14,7 @@ I'm Alisina Bayati, a Ph.D. student at the Coordinated Science Lab (CSL) at the 
 
 My research interests lie at the intersection of optimization, reinforcement learning, control theory, and sequential decision-making.
 
-You can find a detailed overview of my academic and professional background in my [CV](https://alisina75.github.io/files/CV.pdf). A summary of my research and course projects is available [here](https://alisina75.github.io/projects/).
+You can find a detailed overview of my academic and professional background in my [CV](https://alisina75.github.io/files/CV/CV.pdf). A summary of my research and course projects is available [here](https://alisina75.github.io/projects/).
 
 ## News
 
