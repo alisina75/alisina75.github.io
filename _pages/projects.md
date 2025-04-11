@@ -65,7 +65,7 @@ permalink: /projects/
 
 </div>
 
-<div style="margin-left: 2em; padding-left: 1em; border-left: 2px solid #ccc;">
+<div style="margin-top: 2em; margin-left: 2em; padding-left: 1em; border-left: 2px solid #ccc;">
 
   <h3 style="margin: 0 0 0.25em 0; font-weight: 600;">
     Poster Presentation – Midwest Workshop on Control and Game Theory 2023
@@ -86,7 +86,7 @@ permalink: /projects/
 
   <p style="margin: 0;">
     Poster:  
-    <a href="https://alisina75.github.io/files/posters/ACC_drying_poster.pdf" target="_blank">
+    <a href="https://alisina75.github.io/files/misc_notes/ACC_drying_poster.pdf" target="_blank">
       PDF available here
     </a>
   </p>
