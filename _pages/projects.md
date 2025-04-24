@@ -41,7 +41,7 @@ permalink: /projects/
     padding: 2px 6px;
     border-radius: 4px;
   ">
-    Solution evolution during annealing (CBF-based optimization)
+    Solution evolution during annealing
   </figcaption>
   </figure>
 </div>
