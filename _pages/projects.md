@@ -29,7 +29,7 @@ permalink: /projects/
   <img 
     src="https://alisina75.github.io/files/misc_notes/solution_comparison_loop.gif" 
     alt="Solution Animation"
-    style="width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 6px;"
+    style="width: 100%; max-width: 600px; border: 1px solid #ccc; border-radius: 6px;"
   >
   <figcaption style="
     position: absolute;
