@@ -25,8 +25,16 @@ permalink: /projects/
     &nbsp;|&nbsp; 📄 <a href="https://alisina75.github.io/files/misc_notes/Midwest_Workshop_2025_Poster.pdf" target="_blank">Poster (PDF)</a>
   </p>
 
-  <img src="https://alisina75.github.io/files/misc_notes/solution_comparison_loop.gif" alt="Solution Animation" 
-       style="width: 100%; max-width: 600px; margin-top: 0.8em; border: 1px solid #ccc; border-radius: 6px;">
+  <figure style="text-align: center; margin: 1em 0;">
+  <img 
+    src="https://alisina75.github.io/files/misc_notes/solution_comparison_loop.gif" 
+    alt="Solution Animation"
+    style="width: 100%; max-width: 400px; border: 1px solid #ccc; border-radius: 6px;"
+  >
+  <figcaption style="font-size: 0.85em; color: #666; margin-top: 0.4em;">
+    Solution evolution during annealing (CBF-based optimization)
+  </figcaption>
+  </figure>
 </div>
 
 
