@@ -8,10 +8,28 @@ permalink: /projects/
 <h2 style="margin-left: 2em; margin-bottom: 0.4em;">Research Projects</h2>
 
 <div style="margin-left: 2em; padding-left: 1em; border-left: 2px solid #ccc; margin-bottom: 2em;">
-  <p style="margin: 0; color: #666;">
-    Project details coming soon. 
+
+  <h3 style="margin-top: 0.5em;">
+    A Control Barrier Function Approach to Constrained Resource Allocation Problems in a Maximum Entropy Principle Framework
+  </h3>
+
+  <p style="color: #666; font-size: 0.95em;">
+    We develop a control-theoretic framework for solving constrained resource allocation problems, formulated as generalized facility location 
+    with optimal placement and assignment decisions. Leveraging Control Barrier Functions (CBFs), Control Lyapunov Functions (CLFs), and the 
+    Maximum Entropy Principle (MEP), our adaptive gradient-based approach ensures feasibility while improving convergence and constraint handling. 
+    This work was <strong>submitted to CDC 2025</strong>, with a related poster <strong>presented at the 2025 Midwest Workshop on Control and Game Theory</strong>.
   </p>
+
+  <p>
+    🔗 <a href="https://arxiv.org/abs/2504.01378" target="_blank">View paper on arXiv</a>  
+    &nbsp;|&nbsp; 📄 <a href="files/misc_notes/Midwest_Workshop_2025_Poster.pdf" target="_blank">Poster (PDF)</a>
+  </p>
+
+  <img src="files/misc_notes/solution_comparison_loop.gif" alt="Optimization Solution Animation" 
+       style="width: 100%; max-width: 600px; margin-top: 0.8em; border: 1px solid #ccc; border-radius: 6px;">
 </div>
+
+
 
 <!-- Course Projects Section -->
 <h2 style="margin-left: 2em; margin-bottom: 0.4em;">Course Projects</h2>
