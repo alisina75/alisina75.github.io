@@ -16,16 +16,16 @@ permalink: /projects/
   <p style="color: #666; font-size: 0.95em;">
     We develop a control-theoretic framework for solving constrained resource allocation problems, formulated as generalized facility location 
     with optimal placement and assignment decisions. Leveraging Control Barrier Functions (CBFs), Control Lyapunov Functions (CLFs), and the 
-    Maximum Entropy Principle (MEP), our adaptive gradient-based approach ensures feasibility while improving convergence and constraint handling. 
+    Maximum Entropy Principle (MEP), our approach ensures feasibility while improving convergence and constraint handling. 
     This work was <strong>submitted to CDC 2025</strong>, with a related poster <strong>presented at the 2025 Midwest Workshop on Control and Game Theory</strong>.
   </p>
 
   <p>
     🔗 <a href="https://arxiv.org/abs/2504.01378" target="_blank">View paper on arXiv</a>  
-    &nbsp;|&nbsp; 📄 <a href="files/misc_notes/Midwest_Workshop_2025_Poster.pdf" target="_blank">Poster (PDF)</a>
+    &nbsp;|&nbsp; 📄 <a href="https://alisina75.github.io/files/misc_notes/Midwest_Workshop_2025_Poster.pdf" target="_blank">Poster (PDF)</a>
   </p>
 
-  <img src="files/misc_notes/solution_comparison_loop.gif" alt="Solution Animation" 
+  <img src="https://alisina75.github.io/files/misc_notes/solution_comparison_loop.gif" alt="Solution Animation" 
        style="width: 100%; max-width: 600px; margin-top: 0.8em; border: 1px solid #ccc; border-radius: 6px;">
 </div>
 
@@ -48,19 +48,12 @@ permalink: /projects/
     by Abbasi-Yadkori and Szepesvári. This work presents key theorems, lemmas, and an algorithm designed for solving Linear Quadratic (LQ) control problems with unknown model parameters—commonly referred to as adaptive control—aiming to minimize regret. The proposed algorithm estimates parameters using high-probability confidence sets and achieves a regret bound of $\tilde{O}(\sqrt{T})$.
   </p>
 
-  <p style="margin: 0 0 0.3em 0;">
-    Paper: 
-    <a href="https://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf" target="_blank">
-      View on Proceedings of Machine Learning Research
-    </a>
+  <p style="margin: 0;">
+  Paper: <a href="https://proceedings.mlr.press/v19/abbasi-yadkori11a/abbasi-yadkori11a.pdf" target="_blank">View on Proceedings of Machine Learning Research</a>
+  &nbsp;|&nbsp;
+  Report: <a href="https://alisina75.github.io/files/misc_notes/CS542_project.pdf" target="_blank">PDF available here</a>
   </p>
 
-  <p style="margin: 0;">
-    Report: 
-    <a href="https://alisina75.github.io/files/misc_notes/CS542_project.pdf" target="_blank">
-      PDF available here
-    </a>
-  </p>
 
 </div>
 
@@ -98,19 +91,12 @@ permalink: /projects/
     <em>“Deep Sets”</em> by Zaheer et al., a foundational work proposing permutation-invariant neural architectures for set-structured data. The presentation covered theoretical guarantees for invariant and equivariant functions and demonstrated applications in set-based learning.
   </p>
 
-  <p style="margin: 0 0 0.3em 0;">
-    Paper:  
-    <a href="https://arxiv.org/abs/1703.06114" target="_blank">
-      View on arXiv
-    </a>
+  <p style="margin: 0;">
+  Paper: <a href="https://arxiv.org/abs/1703.06114" target="_blank">View on arXiv</a>
+  &nbsp;|&nbsp;
+  Slides: <a href="https://alisina75.github.io/files/misc_notes/Qualifying_Exam-3.pdf" target="_blank">PDF available here</a>
   </p>
 
-  <p style="margin: 0;">
-    Slides:  
-    <a href="https://alisina75.github.io/files/misc_notes/Qualifying_Exam-3.pdf" target="_blank">
-      PDF available here
-    </a>
-  </p>
 
 </div>
 
@@ -126,19 +112,12 @@ permalink: /projects/
     <em>ACC 2023 paper, “Towards Efficient Modularity in Industrial Drying: A Combinatorial Optimization Viewpoint”</em>. This work addresses the optimal sequencing and operating conditions of multiple drying technologies with distinct mechanisms and constraints, using combinatorial scheduling to improve energy efficiency and modular process design.
   </p>
 
-  <p style="margin: 0 0 0.3em 0;">
-    Paper:  
-    <a href="https://ieeexplore.ieee.org/abstract/document/10156630" target="_blank">
-      View on IEEE Xplore
-    </a>
+  <p style="margin: 0;">
+  Paper: <a href="https://ieeexplore.ieee.org/abstract/document/10156630" target="_blank">View on IEEE Xplore</a>
+  &nbsp;|&nbsp;
+  Poster: <a href="https://alisina75.github.io/files/misc_notes/ACC_drying_poster.pdf" target="_blank">PDF available here</a>
   </p>
 
-  <p style="margin: 0;">
-    Poster:  
-    <a href="https://alisina75.github.io/files/misc_notes/ACC_drying_poster.pdf" target="_blank">
-      PDF available here
-    </a>
-  </p>
 
 </div>
 
