@@ -25,7 +25,7 @@ permalink: /projects/
     &nbsp;|&nbsp; 📄 <a href="files/misc_notes/Midwest_Workshop_2025_Poster.pdf" target="_blank">Poster (PDF)</a>
   </p>
 
-  <img src="files/misc_notes/solution_comparison_loop.gif" alt="Optimization Solution Animation" 
+  <img src="files/misc_notes/solution_comparison_loop.gif" alt="Solution Animation" 
        style="width: 100%; max-width: 600px; margin-top: 0.8em; border: 1px solid #ccc; border-radius: 6px;">
 </div>
 
