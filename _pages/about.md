@@ -17,7 +17,7 @@ My research interests lie at the intersection of optimization, reinforcement lea
 You can find a detailed overview of my academic and professional background in my [CV](https://alisina75.github.io/files/CV/CV.pdf). A summary of my research and course projects is available [here](https://alisina75.github.io/projects/).
 
 ## News
-- **[08/15/2025]**: Our journal paper on energy-efficient drying has been accepted to *Energy Conversion & Management*!
+- **[08/15/2025]**: Our journal paper on multi-objective multi-stage dynamic optimization in drying has been accepted to *Energy Conversion & Management*!
   - **Energy efficiency in industrial drying: A hybrid ultrasonic system with a novel dynamic optimization framework**, by Alisina Bayati, Anurag Srivastava, Vedant Mundada, Srinivasa Salapaka, Hao Feng, and Amir Malvandi.  
   [DOI: 10.1016/j.enconman.2025.120392](https://doi.org/10.1016/j.enconman.2025.120392)
 
