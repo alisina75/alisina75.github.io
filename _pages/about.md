@@ -18,7 +18,7 @@ You can find a detailed overview of my academic and professional background in m
 
 ## News
 - **[08/15/2025]**: Our journal paper on multi-objective multi-stage dynamic optimization in drying has been accepted to *Energy Conversion & Management*!
-  - **Energy efficiency in industrial drying: A hybrid ultrasonic system with a novel dynamic optimization framework**, by Alisina Bayati, Anurag Srivastava, Vedant Mundada, Srinivasa Salapaka, Hao Feng, and Amir Malvandi.  
+  - **Energy efficiency in industrial drying: A hybrid ultrasonic system with a novel dynamic optimization framework**, by Alisina Bayati, Amber Srivastava, Vedant Mundada, Srinivasa Salapaka, Hao Feng, and Amir Malvandi.  
   [DOI: 10.1016/j.enconman.2025.120392](https://doi.org/10.1016/j.enconman.2025.120392)
 
 - **[08/11/2025]**: I have officially obtained my **Master of Science in Mathematics** from the University of Illinois Urbana–Champaign!
