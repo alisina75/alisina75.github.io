@@ -21,6 +21,8 @@ You can find a detailed overview of my academic and professional background in m
 - **Feb 25, 2026** — Presented *“Integrating Control Theory and the Maximum Entropy Principle (MEP) for a Class of Constrained Resource Allocation Problems”* at the **CSL Student Conference 2026**.  
   The talk received the **Best Presentation Award** in the *Optimization & Reinforcement Learning* session.
 
+- **Dec 2, 2025** — Successfully passed my **Ph.D. Preliminary Examination** in Mechanical Science & Engineering at the **University of Illinois Urbana–Champaign**.
+
 - **Aug 15, 2025** — Our paper on **multi-objective, multi-stage dynamic optimization for industrial drying systems** was accepted to *Energy Conversion & Management*.  
   *Energy efficiency in industrial drying: A hybrid ultrasonic system with a novel dynamic optimization framework*,  
   Alisina Bayati, Amber Srivastava, Vedant Mundada, Srinivasa Salapaka, Hao Feng, and Amir Malvandi.  
