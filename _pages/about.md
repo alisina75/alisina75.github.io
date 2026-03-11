@@ -17,17 +17,27 @@ My research interests lie at the intersection of optimization, reinforcement lea
 You can find a detailed overview of my academic and professional background in my [CV](https://alisina75.github.io/files/CV/CV.pdf). A summary of my research and course projects is available [here](https://alisina75.github.io/projects/).
 
 ## News
-- **[08/15/2025]**: Our journal paper on multi-objective multi-stage dynamic optimization in drying has been accepted to *Energy Conversion & Management*!
-  - **Energy efficiency in industrial drying: A hybrid ultrasonic system with a novel dynamic optimization framework**, by Alisina Bayati, Amber Srivastava, Vedant Mundada, Srinivasa Salapaka, Hao Feng, and Amir Malvandi.  
+
+- **Feb 25, 2026** — Presented *“Integrating Control Theory and the Maximum Entropy Principle (MEP) for a Class of Constrained Resource Allocation Problems”* at the **CSL Student Conference 2026**.  
+  The talk received the **Best Presentation Award** in the *Optimization & Reinforcement Learning* session.
+
+- **Aug 15, 2025** — Our paper on **multi-objective, multi-stage dynamic optimization for industrial drying systems** was accepted to *Energy Conversion & Management*.  
+  *Energy efficiency in industrial drying: A hybrid ultrasonic system with a novel dynamic optimization framework*,  
+  Alisina Bayati, Amber Srivastava, Vedant Mundada, Srinivasa Salapaka, Hao Feng, and Amir Malvandi.  
   [DOI: 10.1016/j.enconman.2025.120392](https://doi.org/10.1016/j.enconman.2025.120392)
 
-- **[08/11/2025]**: I have officially obtained my **Master of Science in Mathematics** from the University of Illinois Urbana–Champaign!
+- **Aug 11, 2025** — Received **M.S. in Mathematics**, University of Illinois Urbana–Champaign.
 
-- **[07/15/2025]**: Two papers are accepted to CDC 2025!
-  - **A control barrier function approach to constrained resource allocation problems in a maximum entropy principle framework**, by Alisina Bayati$^{\dagger}$, Dhananjay Tiwary$^{\dagger}$, and Srinivasa Salapaka. [arXiv:2504.01378](https://arxiv.org/abs/2504.01378)
-  - **Orthogonal nonnegative matrix factorization with sparsity constraints**, by Salar Basiri, Alisina Bayati, and Srinivasa Salapaka. [arXiv:2210.02672](https://arxiv.org/abs/2210.02672)
+- **Jul 15, 2025** — **Two papers accepted to IEEE CDC 2025**:
+  - *A Control Barrier Function Approach to Constrained Resource Allocation Problems in a Maximum Entropy Principle Framework*,  
+    Alisina Bayati†, Dhananjay Tiwary†, and Srinivasa Salapaka.  
+    [arXiv:2504.01378](https://arxiv.org/abs/2504.01378)
+  - *Orthogonal Nonnegative Matrix Factorization with Sparsity Constraints*,  
+    Salar Basiri, Alisina Bayati, and Srinivasa Salapaka.  
+    [arXiv:2210.02672](https://arxiv.org/abs/2210.02672)
 
-- **[02/29/2024]**: Our work on maximum entropy sparse linear regression is accepted in European Control Conference 2024, Sweden. [Click here](https://arxiv.org/abs/2311.08342) to check out our work.
+- **Feb 29, 2024** — Our work on **maximum entropy sparse linear regression** was accepted to **ECC 2024 (Stockholm, Sweden)**.  
+  [Paper on arXiv](https://arxiv.org/abs/2311.08342)
 
 
 
