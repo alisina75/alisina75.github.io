@@ -31,13 +31,13 @@ You can find a detailed overview of my academic and professional background in m
 - **Jul 15, 2025** — **Two papers accepted to IEEE CDC 2025**:
   - *A Control Barrier Function Approach to Constrained Resource Allocation Problems in a Maximum Entropy Principle Framework*,  
     Alisina Bayati†, Dhananjay Tiwary†, and Srinivasa Salapaka.  
-    [arXiv:2504.01378](https://arxiv.org/abs/2504.01378)
+    [IEEE Xplore](https://ieeexplore.ieee.org/document/11312564)
   - *Orthogonal Nonnegative Matrix Factorization with Sparsity Constraints*,  
     Salar Basiri, Alisina Bayati, and Srinivasa Salapaka.  
-    [arXiv:2210.02672](https://arxiv.org/abs/2210.02672)
+    [IEEE Xplore](https://ieeexplore.ieee.org/document/11312726)
 
-- **Feb 29, 2024** — Our work on **maximum entropy sparse linear regression** was accepted to **ECC 2024 (Stockholm, Sweden)**.  
-  [Paper on arXiv](https://arxiv.org/abs/2311.08342)
+- **Feb 29, 2024** — Our work on **maximum entropy sparse linear regression** was accepted to **ECC 2024**.  
+  [IEEE Xplore](https://ieeexplore.ieee.org/document/10591241)
 
 
 
