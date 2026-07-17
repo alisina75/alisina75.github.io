@@ -1,0 +1,283 @@
+/* ==========================================================================
+   Custom overrides  (loaded LAST so it wins)
+   Modern academic polish: project cards, badges, spacing, typography.
+   Safe to edit or delete — nothing else depends on this file.
+   ========================================================================== */
+
+/* ---- Accent used across the custom components ---------------------------- */
+$accent        : #2563eb;   /* clean modern blue  */
+$accent-dark   : #1e40af;   /* hover / active     */
+$ink           : #1f2937;   /* near-black text    */
+$muted         : #6b7280;   /* secondary text     */
+$card-border   : #e5e7eb;   /* hairline border    */
+$card-bg       : #ffffff;
+
+/* ---- Global readability tweaks ------------------------------------------ */
+.page__content {
+  p, li { line-height: 1.7; }
+}
+
+.page__title,
+.archive__item-title {
+  letter-spacing: -0.01em;
+}
+
+/* Links get the accent + a subtle underline on hover only */
+a { text-decoration: none; }
+.page__content a:not(.btn) {
+  color: $accent;
+  border-bottom: 1px solid transparent;
+  transition: border-color .15s ease, color .15s ease;
+  &:hover { color: $accent-dark; border-bottom-color: $accent-dark; }
+}
+
+/* ==========================================================================
+   Project card grid
+   Used by the Projects landing page. Each .project-card is one project.
+   ========================================================================== */
+
+.section-label {
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: $muted;
+  margin: 2.2em 0 0.9em;
+  padding-bottom: 0.4em;
+  border-bottom: 1px solid $card-border;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.25rem;
+  margin: 0 0 1.5rem;
+}
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  background: $card-bg;
+  border: 1px solid $card-border;
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform .18s ease, box-shadow .18s ease, border-color .18s ease;
+
+  &:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 28px rgba(15, 23, 42, 0.10);
+    border-color: darken($card-border, 8%);
+  }
+
+  .project-card__media {
+    aspect-ratio: 16 / 9;
+    background: #f3f4f6;
+    overflow: hidden;
+    img {
+      width: 100%; height: 100%;
+      object-fit: cover; display: block;
+    }
+  }
+
+  .project-card__body {
+    padding: 1.05rem 1.15rem 1.2rem;
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+  }
+
+  .project-card__title {
+    font-size: 1.05rem;
+    font-weight: 700;
+    line-height: 1.35;
+    margin: 0 0 0.45rem;
+    color: $ink;
+    a { color: $ink; border: 0; }
+    a:hover { color: $accent; }
+  }
+
+  .project-card__desc {
+    font-size: 0.92rem;
+    color: $muted;
+    line-height: 1.6;
+    margin: 0 0 0.9rem;
+    flex: 1 1 auto;
+  }
+
+  .project-card__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+  }
+}
+
+/* Small pill links inside a card (arXiv, PDF, code, etc.) */
+.pill {
+  display: inline-block;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1;
+  padding: 0.42em 0.7em;
+  border-radius: 999px;
+  background: #eef2ff;
+  color: $accent-dark !important;
+  border: 0 !important;
+  transition: background .15s ease;
+  &:hover { background: #e0e7ff; }
+}
+
+/* Status / venue badge shown on a card or project page */
+.badge {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  padding: 0.3em 0.6em;
+  border-radius: 6px;
+  margin-bottom: 0.6rem;
+  background: #ecfdf5;
+  color: #047857;
+}
+.badge--wip     { background: #fffbeb; color: #b45309; }
+.badge--paper   { background: #eff6ff; color: #1d4ed8; }
+.badge--course  { background: #f5f3ff; color: #6d28d9; }
+
+
+/* ==========================================================================
+   SITE-WIDE POLISH  (applies to every page, not just Projects)
+   ========================================================================== */
+
+/* ---- Section headings (any ## in your markdown) ------------------------- */
+.page__content {
+  h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+    color: $ink;
+    margin-top: 2.2rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 2px solid #eef2f7;
+    position: relative;
+  }
+  h2::after {           /* short accent underline under each section title */
+    content: "";
+    position: absolute;
+    left: 0; bottom: -2px;
+    width: 44px; height: 2px;
+    background: $accent;
+  }
+  h3 { font-weight: 700; color: $ink; margin-top: 1.6rem; }
+}
+
+/* Lead / intro paragraph — add class="page__lead" or it styles the first para */
+.page__lead {
+  font-size: 1.1rem;
+  line-height: 1.65;
+  color: #374151;
+}
+
+/* Nicer blockquotes and horizontal rules everywhere */
+.page__content blockquote {
+  border-left: 4px solid $accent;
+  background: #f8fafc;
+  border-radius: 0 8px 8px 0;
+  color: #374151;
+}
+.page__content hr {
+  border: 0;
+  border-top: 1px solid $card-border;
+  margin: 2rem 0;
+}
+
+/* ==========================================================================
+   News feed  (wrap your News list in <div class="news-feed" markdown="1">)
+   Turns a plain markdown list into a clean timeline.
+   ========================================================================== */
+.news-feed ul {
+  list-style: none;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  border-left: 2px solid #e5e7eb;
+}
+.news-feed > ul > li {
+  position: relative;
+  margin: 0;
+  padding: 0.15rem 0 1.15rem 1.4rem;
+  line-height: 1.65;
+  color: #374151;
+}
+.news-feed > ul > li::before {          /* timeline dot */
+  content: "";
+  position: absolute;
+  left: -7px; top: 0.5rem;
+  width: 12px; height: 12px;
+  background: #fff;
+  border: 3px solid $accent;
+  border-radius: 50%;
+}
+/* the leading date in each item (first bold) becomes an accent chip */
+.news-feed > ul > li > strong:first-child {
+  display: inline-block;
+  color: $accent-dark;
+  font-weight: 700;
+  margin-right: 0.15rem;
+}
+.news-feed > ul > li ul {              /* nested sub-items (e.g. two papers) */
+  border-left: 0;
+  margin-top: 0.4rem;
+  padding-left: 1.1rem;
+  list-style: disc;
+}
+.news-feed > ul > li ul li { margin-bottom: 0.35rem; }
+
+/* ==========================================================================
+   Author profile sidebar polish
+   ========================================================================== */
+.author__avatar img {
+  border-radius: 50%;
+  border: 3px solid #fff;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.12);
+  max-width: 180px;
+}
+.author__name {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  margin-top: 0.75rem;
+}
+.author__bio {
+  color: $muted;
+  font-size: 0.95rem;
+}
+.author__urls {
+  li { transition: transform .12s ease; }
+  li:hover { transform: translateX(2px); }
+  a { color: #374151 !important; border: 0 !important; }
+  a:hover { color: $accent !important; }
+  .fa, .fas, .fab { color: $accent; }
+}
+/* Restyle the (decorative) Follow button to match the accent */
+.author__urls-wrapper .btn--inverse {
+  border: 1px solid $accent;
+  color: $accent;
+  border-radius: 999px;
+  font-weight: 600;
+}
+.author__urls-wrapper .btn--inverse:hover {
+  background: $accent;
+  color: #fff;
+}
+
+/* ==========================================================================
+   Masthead (top nav) — cleaner, with a subtle bottom border
+   ========================================================================== */
+.masthead {
+  border-bottom: 1px solid $card-border;
+  box-shadow: 0 1px 3px rgba(15, 23, 42, 0.03);
+}
+.greedy-nav a {
+  font-weight: 600;
+}
+.greedy-nav .visible-links a::before {
+  background: $accent;             /* the hover underline color */
+}
