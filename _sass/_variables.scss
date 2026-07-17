@@ -60,7 +60,7 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #1f2937;   // dark slate — masthead / name
+$primary-color              : #1f2937;   // dark slate
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -76,7 +76,8 @@ $github-color               : #171516;
 $google-plus-color          : #dd4b39;
 $instagram-color            : #517fa4;
 $lastfm-color               : #d51007;
-$link-color                 : #2563eb;   // modern blue — all links$pinterest-color            : #cb2027;
+$linkedin-color             : #007bb6;
+$pinterest-color            : #cb2027;
 $rss-color                  : #fa9b39;
 $soundcloud-color           : #ff3300;
 $stackoverflow-color        : #fe7a15;
@@ -89,7 +90,7 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+$link-color                 : #2563eb;      // modern blue
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
