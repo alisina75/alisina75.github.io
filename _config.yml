@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alisina Bayati"
+title                    : "About Me"
 title_separator          : "-"
-name                     : &name "Alisina Bayati"
-description              : &description "Personal website of Alisina Bayati — PhD student at UIUC working on optimization, reinforcement learning, and control."
+name                     : &name "Alisina Bayati2"
+description              : &description "personal website"
 url                      : https://alisina75.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
